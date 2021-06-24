@@ -1,28 +1,27 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"author": "Jacob Lin",
-	"description": "A freeCodeCamp learn npm package project that does something awesome",
-	"keywords": [
-		"freecodecamp",
-		"tutorial",
-		"practice",
-		"npm",
-		"package.json",
-		"project",
-		"management"
-	],
-	"license": "MIT",
-	"version": "0.0.1",
-	"dependencies": {
-		"express": "^4.14.0",
-        "moment": "^2.10.2"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+    "name": "fcc-learn-npm-package-json",
+    "author": "Jacob Lin",
+    "description": "A freeCodeCamp learn npm package project that does something awesome",
+    "keywords": [
+        "freecodecamp",
+        "tutorial",
+        "practice",
+        "npm",
+        "package.json",
+        "project",
+        "management"
+    ],
+    "license": "MIT",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "^4.14.0"
+    },
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://idontknow/todo.git"
+    }
 }
