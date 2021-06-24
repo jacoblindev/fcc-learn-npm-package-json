@@ -3,6 +3,7 @@
     "author": "Jacob Lin",
     "description": "A freeCodeCamp learn npm package project that does something awesome",
     "keywords": ["freecodecamp", "tutorial", "practice", "npm", "package.json", "project", "management"],
+    "license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
