@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
     "author": "Jacob Lin",
     "description": "A freeCodeCamp learn npm package project that does something awesome",
-    "keywords": ["freeCodeCamp", "tutorial", "practice", "npm", "package.json", "project", "management"],
+    "keywords": ["freecodecamp", "tutorial", "practice", "npm", "package.json", "project", "management"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
